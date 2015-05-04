@@ -1,0 +1,1 @@
+anno            mese				giorno						ora						minuti				julian day					meanH1					meanH2					meanH3				meanH4 				meanH5  			meanH6				meanH7     	  stdH1					stdH2					stdH3					stdH4 						stdH5  						stdH6						stdH7    		   	DerH1							DerH2							DerH3							DerH4 							DerH5  						DerH6								DerH7       		
